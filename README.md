@@ -7,7 +7,7 @@ users we have.
 - Anaconda<br>
 - Jupyter notebook<br>
 
-Languages and Technologies used:k<br>
+Languages and Technologies used:<br>
 
 Python 3k<br>
 MySQL<br>
@@ -19,3 +19,5 @@ Steps to run the project on your machine:<br>
 - in vscode or jupyter notebook download python get-pip.py and then pip run 'libraryname'<br>
 - Install Anaconda and launch Jupyter Notebook
 - download the files into one folder you can run the python file (main.py) in VSCODE (run in interactive window) or you can run the jupyter notebook Customers.ipynb  eighter in Vscode or Jupyter notebook
+
+
